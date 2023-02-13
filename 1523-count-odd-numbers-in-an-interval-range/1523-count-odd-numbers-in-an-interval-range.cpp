@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int countOdds(int low, int high) {
+    int countOdds(int low, int& high) {
         if (!(low & 1)) {
             low++;
         }
