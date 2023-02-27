@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/construct-quad-tree/">427. Construct Quad Tree</a></h2><h3>Medium</h3><hr><div><p>Given a <code>n * n</code> matrix <code>grid</code> of <code>0's</code> and <code>1's</code> only. We want to represent the <code>grid</code> with a Quad-Tree.</p>
+<h2><a href="https://leetcode.com/problems/construct-quad-tree/solution/">427. Construct Quad Tree</a></h2><h3>Medium</h3><hr><div><p>Given a <code>n * n</code> matrix <code>grid</code> of <code>0's</code> and <code>1's</code> only. We want to represent the <code>grid</code> with a Quad-Tree.</p>
 
 <p>Return <em>the root of the Quad-Tree</em> representing the <code>grid</code>.</p>
 
